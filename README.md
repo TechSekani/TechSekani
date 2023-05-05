@@ -12,7 +12,7 @@ Hi there, I am Sekani
 
 📫 How to reach me olukoluu@gmail.com
 
-🚀 Languages and Tools: Html5, CSS3, TailwindCSS, Javascript, ReactJs
+🚀 Languages and Tools: Html5, CSS3, TailwindCSS, Boostrap 5, Javascript, ReactJs
 <div style="display: flex; gap: 50px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" height="50px" width="50px"/>
 
@@ -20,6 +20,8 @@ Hi there, I am Sekani
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" height="50px" width="50px"/>
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" height="50px" width="50px"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="50px" width="50px"/>
 
